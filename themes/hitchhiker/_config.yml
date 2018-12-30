@@ -75,7 +75,7 @@ widgets:
 # Key is the name of FontAwsome icon.
 # Value is the target link (E.g. GitHub: https://github.com/iTimeTraveler)
 social:
-  Github: https://github.com/iTimeTraveler 
+  Github: https://github.com/dohan0930
   Twitter:  
   Facebook: https://facebook.com/dohan0930
   email: dohan0930@gmail.com
@@ -89,7 +89,7 @@ search:
 
 
 # comment ShortName, you can choose only ONE to display. 
-disqus_shortname: revival0n
+disqus_shortname: dohan0930
 
 
 # Code Highlight theme
