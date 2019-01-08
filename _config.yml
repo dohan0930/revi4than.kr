@@ -5,15 +5,15 @@
 # Site
 title: revi4than.kr
 subtitle: revival0n's blog 
-description: my trial about computer security and infrastructure
+description: Computer Security / Infrastructure
 keywords:
-author: Dongwon Jang
+author: revival0n(Dongwon Jang)
 language: ko
 timezone: Asia/Seoul
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://revival0n.kr
+url: https://revival0n.kr
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -37,7 +37,7 @@ filename_case: 0
 render_drafts: false
 post_asset_folder: true
 relative_link: false
-future: true
+future: false
 highlight:
   enable: true
   line_number: true
