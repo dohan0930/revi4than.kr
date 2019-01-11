@@ -125,8 +125,6 @@ qihu_site_verification:
 # Miscellaneous
 google_analytics:
 gauges_analytics:
-baidu_analytics:
-tencent_analytics:
 twitter:
 google_plus:
 fb_admins:
@@ -140,13 +138,6 @@ facebook_sdk:
   fb_admin:     #<user_id>
   like_button:  #true
   webmaster:    #true
-
-# CNZZ count
-cnzz_siteid:
-
-# busuanzi count
-# http://busuanzi.ibruce.info/
-show_busuanzi_view_counts: false
     
 # post copyright
 copyright:
